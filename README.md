@@ -27,8 +27,8 @@ Movile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Solution](https://github.com/jordanbichot/order-summary-component-main.git)
+- Live Site URL: [Live Site](https://fem-order-summary-component-jordan.netlify.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Movile
 
 ### Useful resources
 
-- [A look at the CUBE CSS methodology in action](https://www.youtube.com/watch?v=wtfATdEMUxY)
+- [A look at the CUBE CSS methodology in action](https://www.youtube.com/watch?v=NanhQvnvbR8&t=8s)
 - [Curso de CSS AVANZADO 🔥 MEDIA QUERIES](https://www.youtube.com/watch?v=2BtdGYS5fQ4&t=7s)
 
 ## Author
